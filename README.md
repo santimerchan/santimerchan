@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santimerchan a Data Engineer in Mercado Libre
 - 👀 I’m interested in Data Engineering, Machine Learning and AI
-- 🌱 I’m currently learning Deep Learning and GCP Data Pipelines with Python
+- 🌱 I’m currently learning Deep Learning and Data Architectures on GCP.
 - 📫 How to reach me ? .... smerchanmontoya@gmail.com
 
 <!---
